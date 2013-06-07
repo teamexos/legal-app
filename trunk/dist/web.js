@@ -15,6 +15,11 @@ app.use(function (req, res, next) {
 });
 
 app.use(express.compress());
+
+app.get('/', function(req, res){
+  res.redirect('http://www.athletesperformance.com/');
+});
+
 app.use(express.favicon(__dirname + '/app' + favicon));
 app.use(express.static(__dirname + '/app'));
 
