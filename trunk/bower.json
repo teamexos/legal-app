@@ -2,8 +2,6 @@
   "name": "webapp",
   "version": "0.0.0",
   "dependencies": {
-    "modernizr": "~2.6.2",
-    "foundation": "~4.1.6",
-    "user-interface-library": "https://ap.git.beanstalkapp.com/user-interface-library.git"
+    "user-interface-library": "https://ap.git.beanstalkapp.com/user-interface-library.git#1.1.x"
   }
 }
