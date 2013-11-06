@@ -138,39 +138,40 @@ module.exports = function (grunt) {
         },
         // not used since Uglify task does concat,
         // but still available if needed
-        /*concat: {
-            dist: {}
-        },*/
+        concat: {
+            '<%= yeoman.dist %>/scripts/main.js': [ 
+                '<%= yeoman.app %>/components/respond/respond.min.js',
+                '<%= yeoman.app %>/scripts/main.js'
+            ]
+        },
         // not enabled since usemin task does concat and uglify
         // check index.html to edit your build targets
         // enable this task if you prefer defining your build targets here
-        /*uglify: {
-            dist: {}
-        },*/
+        uglify: {
+            '<%= yeoman.dist %>/scripts/main.js': '<%= yeoman.dist %>/scripts/main.js',
+            '<%= yeoman.dist %>/scripts/head.js': '<%= yeoman.dist %>/scripts/head.js'
+        },
         rev: {
             dist: {
                 files: {
-                    src: [
-                        '<%= yeoman.dist %>/scripts/{,*/}*.js',
-                        '<%= yeoman.dist %>/styles/{,*/}*.css',
-                        '<%= yeoman.dist %>/media/{,**/}*.{png,jpg,jpeg,gif,webp,svg}',
-                        '<%= yeoman.dist %>/styles/fonts/*'
-                    ]
+                    '<%= yeoman.dist %>/scripts/main.js': '<%= yeoman.dist %>/scripts/main.js',
+                    '<%= yeoman.dist %>/scripts/head.js': '<%= yeoman.dist %>/scripts/head.js',
+                    '<%= yeoman.dist %>/styles/main.css': '<%= yeoman.dist %>/styles/main.css'
                 }
             }
         },
         useminPrepare: {
+            html: '<%= yeoman.app %>/index.html',
             options: {
                 dest: '<%= yeoman.dist %>'
-            },
-            html: '<%= yeoman.app %>/index.html'
+            }
         },
         usemin: {
+            html: ['<%= yeoman.dist %>/{,*/}*.html'],
+            css: ['<%= yeoman.dist %>/styles/{,*/}*.css'],
             options: {
                 dirs: ['<%= yeoman.dist %>']
-            },
-            html: ['<%= yeoman.dist %>/{,*/}*.html'],
-            css: ['<%= yeoman.dist %>/styles/{,*/}*.css']
+            }
         },
         imagemin: {
             dist: {
@@ -274,12 +275,12 @@ module.exports = function (grunt) {
 
     grunt.registerTask('build', [
         'clean:dist',
-        'useminPrepare',
         'concurrent:dist',
-        'concat',
-        'cssmin',
-        'uglify',
         'copy:dist',
+        'useminPrepare',
+        'cssmin',
+        'concat',
+        'uglify',
         'rev',
         'usemin'
     ]);
