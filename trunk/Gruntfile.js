@@ -126,7 +126,7 @@ module.exports = function (grunt) {
                 relativeAssets: false
             },
             dist: {
-                options: {
+                options: {                    
                     generatedImagesDir: '<%= yeoman.dist %>/media/generated'
                 }
             },
@@ -138,19 +138,11 @@ module.exports = function (grunt) {
         },
         // not used since Uglify task does concat,
         // but still available if needed
-        concat: {
-            '<%= yeoman.dist %>/scripts/main.js': [ 
-                '<%= yeoman.app %>/components/respond/respond.min.js',
-                '<%= yeoman.app %>/scripts/main.js'
-            ]
-        },
+        concat: {},
         // not enabled since usemin task does concat and uglify
         // check index.html to edit your build targets
         // enable this task if you prefer defining your build targets here
-        uglify: {
-            '<%= yeoman.dist %>/scripts/main.js': '<%= yeoman.dist %>/scripts/main.js',
-            '<%= yeoman.dist %>/scripts/head.js': '<%= yeoman.dist %>/scripts/head.js'
-        },
+        uglify: {},
         rev: {
             dist: {
                 files: {
