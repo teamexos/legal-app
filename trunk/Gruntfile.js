@@ -15,6 +15,7 @@ var mountFolder = function (connect, dir) {
 module.exports = function (grunt) {
     // load all grunt tasks
     require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
+    grunt.loadNpmTasks('assemble');
 
     // configurable paths
     var yeomanConfig = {
@@ -38,11 +39,34 @@ module.exports = function (grunt) {
                     livereload: LIVERELOAD_PORT
                 },
                 files: [
-                    '<%= yeoman.app %>/*.html',
+                    '{.tmp,<%= yeoman.app %>}/*.html',
                     '{.tmp,<%= yeoman.app %>}/styles/{,*/}*.css',
                     '{.tmp,<%= yeoman.app %>}/scripts/{,*/}*.js',
                     '<%= yeoman.app %>/media/{,**/}*.{png,jpg,jpeg,gif,webp,svg}'
                 ]
+            },
+            assemble: {
+                files: [
+                    '<%= yeoman.app %>/data/**/*.{yml,json}',
+                    '<%= yeoman.app %>/{layouts,pages,partials}/**/*.hbs'
+                ],
+                tasks: 'assemble'
+            }
+        },
+        assemble: {
+            options: {
+                layout: '<%= yeoman.app %>/layouts/default.hbs',
+                assets: '<%= yeoman.app %>',
+                data: '<%= yeoman.app %>/data/*.{json,yml}',
+                partials: '<%= yeoman.app %>/data/partials/**/*.hbs'
+            },
+            dist: {
+                files: [{
+                    expand: true,
+                    cwd: '<%= yeoman.app %>/pages',
+                    dest: '.tmp',
+                    src: '**/*.hbs'
+                }]
             }
         },
         connect: {
@@ -153,7 +177,7 @@ module.exports = function (grunt) {
             }
         },
         useminPrepare: {
-            html: '<%= yeoman.app %>/index.html',
+            html: '.tmp/index.html',
             options: {
                 dest: '<%= yeoman.dist %>'
             }
@@ -200,7 +224,7 @@ module.exports = function (grunt) {
                 },
                 files: [{
                     expand: true,
-                    cwd: '<%= yeoman.app %>',
+                    cwd: '.tmp',
                     src: '*.html',
                     dest: '<%= yeoman.dist %>'
                 }]
@@ -258,6 +282,7 @@ module.exports = function (grunt) {
 
         grunt.task.run([
             'clean:server',
+            'assemble',
             'concurrent:server',
             'connect:livereload',
             'open',
@@ -267,6 +292,7 @@ module.exports = function (grunt) {
 
     grunt.registerTask('build', [
         'clean:dist',
+        'assemble',
         'concurrent:dist',
         'copy:dist',
         'useminPrepare',
