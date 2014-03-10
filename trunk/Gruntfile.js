@@ -20,7 +20,7 @@ module.exports = function (grunt) {
     // configurable paths
     var yeomanConfig = {
         app: 'app',
-        dist: 'dist/app'
+        dist: 'dist'
     };
 
     grunt.initConfig({
@@ -48,7 +48,8 @@ module.exports = function (grunt) {
             assemble: {
                 files: [
                     '<%= yeoman.app %>/data/**/*.{yml,json}',
-                    '<%= yeoman.app %>/{layouts,pages,partials}/**/*.hbs'
+                    '<%= yeoman.app %>/{layouts,pages,partials}/**/*.hbs',
+                    '<%= yeoman.app %>/documents/**/*.md'
                 ],
                 tasks: 'assemble'
             }

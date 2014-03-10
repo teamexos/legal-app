@@ -4,6 +4,7 @@
 
 RewriteEngine On
 RewriteRule ^favicon\.ico$ /components/user-interface-library/media/icons/favicon.ico [L]
+RewriteRule ^$ http://www.teamexos.com/ [R,L]
 
 # ------------------------------------------------------------------------------
 # | Custom error messages / pages                                              |
