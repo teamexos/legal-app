@@ -27,7 +27,7 @@ module.exports = function (grunt) {
         yeoman: yeomanConfig,
         watch: {
             compass: {
-                files: ['<%= yeoman.app %>/styles/{,*/}*.{scss,sass}'],
+                files: ['<%= yeoman.app %>/styles/{,**/}*.{scss,sass}'],
                 tasks: ['compass:server']
             },
             styles: {
@@ -39,7 +39,7 @@ module.exports = function (grunt) {
                     livereload: LIVERELOAD_PORT
                 },
                 files: [
-                    '{.tmp,<%= yeoman.app %>}/*.html',
+                    '{.tmp,<%= yeoman.app %>}/{,*/}*.html',
                     '{.tmp,<%= yeoman.app %>}/styles/{,*/}*.css',
                     '{.tmp,<%= yeoman.app %>}/scripts/{,*/}*.js',
                     '<%= yeoman.app %>/media/{,**/}*.{png,jpg,jpeg,gif,webp,svg}'
@@ -76,20 +76,10 @@ module.exports = function (grunt) {
                 // change this to '0.0.0.0' to access the server from outside
                 hostname: '0.0.0.0'
             },
-            //proxies: [
-            //    {
-            //        context: '/api',
-            //        host: '',
-            //        port: 80,
-            //        https: false,
-            //        changeOrigin: true
-            //    }
-            //],
             livereload: {
                 options: {
-                    middleware: function (connect) {
+                    middleware: function (connect, options) {
                         return [
-                            //proxySnippet,
                             lrSnippet,
                             mountFolder(connect, '.tmp'),
                             mountFolder(connect, yeomanConfig.app)
@@ -148,7 +138,8 @@ module.exports = function (grunt) {
                 httpImagesPath: '/images',
                 httpGeneratedImagesPath: '/media/generated',
                 httpFontsPath: '/styles/fonts',
-                relativeAssets: false
+                relativeAssets: false,
+                assetCacheBuster: false
             },
             dist: {
                 options: {                    
@@ -157,38 +148,45 @@ module.exports = function (grunt) {
             },
             server: {
                 options: {
-                    debugInfo: true
+                    debugInfo: false
                 }
             }
         },
         // not used since Uglify task does concat,
         // but still available if needed
-        concat: {},
+        /*concat: {
+            dist: {}
+        },*/
         // not enabled since usemin task does concat and uglify
         // check index.html to edit your build targets
         // enable this task if you prefer defining your build targets here
-        uglify: {},
+        /*uglify: {
+            dist: {}
+        },*/
         rev: {
             dist: {
                 files: {
-                    '<%= yeoman.dist %>/scripts/main.js': '<%= yeoman.dist %>/scripts/main.js',
-                    '<%= yeoman.dist %>/scripts/head.js': '<%= yeoman.dist %>/scripts/head.js',
-                    '<%= yeoman.dist %>/styles/main.css': '<%= yeoman.dist %>/styles/main.css'
+                    src: [
+                        '<%= yeoman.dist %>/scripts/{,*/}*.js',
+                        '<%= yeoman.dist %>/styles/{,*/}*.css',
+                        '<%= yeoman.dist %>/media/{,**/}*.{png,jpg,jpeg,gif,webp,svg}',
+                        '<%= yeoman.dist %>/styles/fonts/*'
+                    ]
                 }
             }
         },
         useminPrepare: {
-            html: '.tmp/index.html',
             options: {
                 dest: '<%= yeoman.dist %>'
-            }
+            },
+            html: '.tmp/index.html'
         },
         usemin: {
-            html: ['<%= yeoman.dist %>/{,**/}*.html'],
-            css: ['<%= yeoman.dist %>/styles/{,*/}*.css'],
             options: {
-                dirs: ['<%= yeoman.dist %>']
-            }
+                assetDirs: ['<%= yeoman.dist %>']
+            },
+            html: ['<%= yeoman.dist %>/{,*/}*.html'],
+            css: ['<%= yeoman.dist %>/styles/{,*/}*.css']
         },
         imagemin: {
             dist: {
@@ -294,12 +292,12 @@ module.exports = function (grunt) {
     grunt.registerTask('build', [
         'clean:dist',
         'assemble',
-        'concurrent:dist',
-        'copy:dist',
         'useminPrepare',
-        'cssmin',
+        'concurrent:dist',
         'concat',
+        'cssmin',
         'uglify',
+        'copy:dist',
         'rev',
         'usemin'
     ]);
