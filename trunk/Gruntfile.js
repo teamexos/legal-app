@@ -135,7 +135,7 @@ module.exports = function (grunt) {
                 javascriptsDir: '<%= yeoman.app %>/scripts',
                 fontsDir: '<%= yeoman.app %>/styles/fonts',
                 importPath: '<%= yeoman.app %>/components',
-                httpImagesPath: '/images',
+                httpImagesPath: '/media',
                 httpGeneratedImagesPath: '/media/generated',
                 httpFontsPath: '/styles/fonts',
                 relativeAssets: false,
@@ -183,9 +183,9 @@ module.exports = function (grunt) {
         },
         usemin: {
             options: {
-                assetDirs: ['<%= yeoman.dist %>']
+                assetsDirs: ['<%= yeoman.dist %>']
             },
-            html: ['<%= yeoman.dist %>/{,*/}*.html'],
+            html: ['<%= yeoman.dist %>/{,**/}*.html'],
             css: ['<%= yeoman.dist %>/styles/{,*/}*.css']
         },
         imagemin: {
