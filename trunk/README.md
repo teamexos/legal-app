@@ -41,7 +41,7 @@ Build the site into the dist directory
 
 Build and view the site in your browser
 
-    $ grunt serve:dist
+    $ grunt server:dist
 
 Deployment
 ----------
