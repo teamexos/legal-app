@@ -1,4 +1,4 @@
-# <a name="english"></a>Athletes’ Performance Germany GmbH and Athletes’ Performance, Inc.
+# <a name="english"></a>Privacy Policy for Athletes’ Performance Germany GmbH and Athletes’ Performance, Inc.
 
 #### Released: February 16, 2016
 
@@ -41,35 +41,35 @@ APG and API may collect Personal Information about you at various touchpointsin 
 The categories of personal information we collect about you varies based on the Services you participate in, request, or inquire about. Please note that such personal information may also comprise of sensitive health data that you provide us with during the use of the Services. Such categories are:
 
 1. For the use of the fitness centers (including OPS and Cardio/ESD):
-- Name and contact Information
-- Emergency contact,
-- Date of birth,
-- Email address and account password,
-- Relevant Health History
-- Acceptance of terms and conditions of use of fitness center,
-- Timestamps of visits, authorization to access facility (for instance notifying building management or security to grant you access to a fitness facility or gym).
-- Evaluation measures such as height and weight, body composition, functional movement screen, exercise and resting heart rate, maximum oxygen intake (‘VO2max’) may be collected and entered into OPS by the fitness center staff if you voluntarily participate in a fitness testing.
-- Cardiovascular workout related information (machine settings by you in regards to workout length and intensity, calories burned, distance traversed, time exercising, power expended),
-- Nutritional Information and Dietician Notes (if applicable)
-- Coaching and Performance Notes
-- Performance on machines
-- Program Interest, Goals, History, Registration and Service/Program Enrollment Information, Informed consent or waiver acknowledgment
-- Billing and/or Payment Information (only if applicable) as well as payment authorization for your monthly fees and other purchases such as personal training
-- Sports Club and/or Sports Association related information (if applicable)
-- Personal health (e.g. height, weight), fitness and nutrition information
-- Marketing and communications preferences (as/if applicable)
-- Scheduling information regarding group exercise classes
+    - Name and contact Information
+    - Emergency contact,
+    - Date of birth,
+    - Email address and account password,
+    - Relevant Health History
+    - Acceptance of terms and conditions of use of fitness center,
+    - Timestamps of visits, authorization to access facility (for instance notifying building management or security to grant you access to a fitness facility or gym).
+    - Evaluation measures such as height and weight, body composition, functional movement screen, exercise and resting heart rate, maximum oxygen intake (‘VO2max’) may be collected and entered into OPS by the fitness center staff if you voluntarily participate in a fitness testing.
+    - Cardiovascular workout related information (machine settings by you in regards to workout length and intensity, calories burned, distance traversed, time exercising, power expended),
+    - Nutritional Information and Dietician Notes (if applicable)
+    - Coaching and Performance Notes
+    - Performance on machines
+    - Program Interest, Goals, History, Registration and Service/Program Enrollment Information, Informed consent or waiver acknowledgment
+    - Billing and/or Payment Information (only if applicable) as well as payment authorization for your monthly fees and other purchases such as personal training
+    - Sports Club and/or Sports Association related information (if applicable)
+    - Personal health (e.g. height, weight), fitness and nutrition information
+    - Marketing and communications preferences (as/if applicable)
+    - Scheduling information regarding group exercise classes
 1. For Journey:
-- Email address and password
-- Name,
-- Date of Birth,
-- Height/weight, BMI and percent body fat measurement
-- Data regarding the utilization of certain pages within the web application via the use of cookies to assist maintaining the sessions
-- Data you submit during completion of your performance profile related to recovery, nutrition, mindset and movement.
-- Goals and Missions to accomplish in Journey
-- Dietician intake and notes, personal training notes as applicable
-- Personal health (e.g. height, weight), fitness and nutrition information
-- Marketing and communications preferences (as/if applicable)
+    - Email address and password
+    - Name,
+    - Date of Birth,
+    - Height/weight, BMI and percent body fat measurement
+    - Data regarding the utilization of certain pages within the web application via the use of cookies to assist maintaining the sessions
+    - Data you submit during completion of your performance profile related to recovery, nutrition, mindset and movement.
+    - Goals and Missions to accomplish in Journey
+    - Dietician intake and notes, personal training notes as applicable
+    - Personal health (e.g. height, weight), fitness and nutrition information
+    - Marketing and communications preferences (as/if applicable)
 
 APG as well as API respect the privacy of those persons who choose to participate and use the Services and are committed to protecting the privacy of the Personal Information that you share with us and use it in the manner described herein. At any time should you object to the terms of this Privacy Policy, youshould immediately notify APG and API, and should discontinue your use or participation of the Services.
 
