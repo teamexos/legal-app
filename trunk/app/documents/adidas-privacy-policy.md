@@ -1,4 +1,4 @@
-# <a name="english"></a>Athletes’ Performance Germany GmbH_** **_and Athletes’ Performance, Inc.
+# <a name="english"></a>Athletes’ Performance Germany GmbH and Athletes’ Performance, Inc.
 
 #### Released: February 16, 2016
 
