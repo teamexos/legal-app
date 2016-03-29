@@ -1,0 +1,73 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="shortcut icon" href="/components/user-interface-library/media/icons/favicon.ico">
+        
+        <title>Network Models - Model G</title>
+        
+        <link rel="stylesheet" href="/styles/d1dbbdd1.main.css">
+        
+        <script src="/scripts/f7f27360.head.js"></script>
+
+        <script src="//use.typekit.net/vol8ydh.js"></script>
+        <script>try{Typekit.load();}catch(e){}</script>
+    </head>
+    <body>
+
+        
+<div class="row">
+    <div class="large-12 columns">
+        <p>Last updated date: 3/29/2016</p>
+<p>In Model G, the network connectivity is supplied to EXOS|Medifit by the client.  In said scenario, the following gear is supported:</p>
+<ul>
+<li>Orbit</li>
+<li>Corner</li>
+<li>Check-in computer</li>
+<li>Google cloud printer</li>
+<li>Google Chrome Books (for coach usage)</li>
+</ul>
+<p>Common configuration: Leverage client’s ‘guest network’ that may or may not require WPA password connectivity.  Pre-provide client with a list of MAC addresses to exclude equipment from captive web portal if client has such a configuration.  Network IP’s, DNS and subnetmask provided via DHCP.</p>
+<p>Model G network requirements – to be provided by client:</p>
+<ul>
+<li>Wireless network connectivity (in fitness/performance center space)<ul>
+<li>2.4ghz</li>
+<li>5ghz (not required)</li>
+<li>Can NOT support a captive web portal</li>
+</ul>
+</li>
+<li>Network connectivity<ul>
+<li>Speed<ul>
+<li>minimum: 1/mbps symmetrical</li>
+<li>recommended: 5/mbps symmetrical</li>
+</ul>
+</li>
+<li>Inbound ports: none</li>
+<li>Outbound ports<ul>
+<li>80</li>
+<li>443</li>
+<li>5222 (from printer only)</li>
+<li>NTP</li>
+<li>DNS (if internal DNS servers not provided)</li>
+<li>Device to device communication: NONE</li>
+<li>IP assignment: support both static and DHCP</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+    </div>
+</div>
+
+        <script src="/scripts/3ad17e98.main.js"></script>
+
+    </body>
+</html>
