@@ -209,7 +209,7 @@ You can refuse the use of Google Analytics by clicking on the following link. An
 
 Further information concerning the terms and conditions of use and data privacy can be found at http://www.google.com/analytics/terms/gb.html or at https://www.google.de/intl/en_uk/policies/.
 
-Please note that on this website, Google Analytics code is supplemented by “gat._anonymizeIp();” to ensure an anonymized collection of IP addresses (so called IP-masking). For more information about Google analytic cookies, please see Google's help pages and privacy policy:
+For more information about Google analytic cookies, please see Google's help pages and privacy policy:
 
    <a href="http://www.google.com/intl/en/policies/privacy/">Google's Privacy Policy</a>  
    <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage">Google Analytics Help pages</a>  
