@@ -30,7 +30,6 @@
     request.onreadystatechange = function () {
         if (request.readyState === XMLHttpRequest.DONE &&
             request.status === 200) {
-            //console.log(request.response)
             document.getElementById('TOS').innerHTML = request.response
         }
     };
