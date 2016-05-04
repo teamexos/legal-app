@@ -1,0 +1,43 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="shortcut icon" href="/components/user-interface-library/media/icons/favicon.ico">
+        
+        <title>Terms of Service</title>
+        
+        <link rel="stylesheet" href="/styles/d1dbbdd1.main.css">
+        
+        <script src="/scripts/f7f27360.head.js"></script>
+
+        <script src="//use.typekit.net/vol8ydh.js"></script>
+        <script>try{Typekit.load();}catch(e){}</script>
+    </head>
+    <body>
+
+        
+<div id="TOS"></div>
+
+<script>
+    var request = new XMLHttpRequest();
+    request.onreadystatechange = function () {
+        if (request.readyState === XMLHttpRequest.DONE &&
+            request.status === 200) {
+            document.getElementById('TOS').innerHTML = request.response
+        }
+    };
+    request.open('GET', '/terms-of-service/ibmjapan/JP/', true);
+    request.send();
+</script>
+
+        <script src="/scripts/3ad17e98.main.js"></script>
+
+    </body>
+</html>
