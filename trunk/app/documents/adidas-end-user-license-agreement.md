@@ -1,0 +1,66 @@
+The English text is displayed first, followed by the German text.  Please scroll down to review the German version.
+
+Der englische Text wird zuerst angezeigt, danach folgt der deutsche Text. Für die deutsche Version bitte nach unten scrollen.
+
+---
+
+# End User License Agreement “EULA”
+
+#### Updated: 3/16/2016
+
+** ATTENTION: USE OF THIS SOFTWARE IS SUBJECT TO THE EULA SET FORTH BELOW. USING THE SOFTWARE INDICATES YOUR ACCEPTANCE OF THESE LICENSE TERMS.**
+
+####Application EULA
+
+The following license terms govern the use of the accompanying application (the “Application”).
+
+**License Grant.** Licensee grants you a license to use one (1) account within the Application. “Licensee” means, Athletes’ Performance, Inc. or one of its affiliates which owns the Application. “Use” means, for your personal purposes, storing, loading, installing, executing, or displaying the Application. You may not modify the Application or disable any licensing or control features of the Application. Licensee reserves all rights not expressly granted to you in this EULA.
+
+**Ownership.** The Application is owned and copyrighted by Licensee. Your license confers no title to, or ownership in, the Application and is not a sale of any rights in the Application. You may not copy the Application. Licensee shall own all right, title and interest in and to any derivatives, enhancements or modifications to the Application.
+
+**No Disassembly or Decryption.** You may not modify the Application and shall not cause or permit decompilation, disassembly, or reverse engineering of the Application or otherwise attempt to derive the source code of the Software. You may not decrypt the Application unless decryption is a necessary part of the operation of the Application.
+
+**Termination.** Licensee may terminate your license upon notice for convenience or for failure to comply with any of these license terms. Your license will automatically terminate upon any unauthorized use or sharing by you of your account within the Application. Upon termination, you must immediately cease using the Application.
+
+**Terms of Service and Privacy Policy.** The Terms and Conditions of Use must be accepted in order to use this Application.  Please review the Terms and Conditions of Use (which also reference our Privacy Policy) before using this Application.  Should you no longer agree to our Terms and Conditions of Use, your license to use the Application will be immediately terminated.
+
+**Export Requirements & U.S. Government Restricted Rights.** You agree to comply fully with all relevant export laws and regulations, including but not limited to the U.S. Export Administration Regulations (collectively, “Export Controls”). Without limiting the generality of the foregoing, you expressly agree that you shall not export, directly or indirectly, re-export, divert, or transfer the Application, or any direct product thereof to any destination, company or person restricted or prohibited by Export Controls.
+
+**Warranty Disclaimers & Liability Limitation.** THE APPLICATION IS PROVIDED “AS IS” AND LICENSEE AND ITS AFFILIATES MAKE NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR USE OR PURPOSE.
+
+LICENSEE AND ITS AFFILIATES ARE NOT LIABLE FOR CONSEQUENTIAL, INCIDENTAL, INDIRECT, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR LOST PROFITS, EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATIONS OF LIABILITY AND DISCLAIMERS OF DAMAGES APPLY REGARDLESS OF THE FORM OF AN ACTION AND WILL APPLY EVEN IF A REMEDY FAILS IN ITS ESSENTIAL PURPOSE. HOWEVER, THE FOREGOING LIMITATIONS DO NOT APPLY TO CLAIMS FOR DAMAGES BASED ON THE INJURY OF LIFE, BODY OR HEALTH OR CLAIMS BASED ON THE BREACH OF ESSENTIAL CONTRACTUAL OBLIGATIONS (CARDINAL DUTIES) AS WELL AS CLAIMS FOR OTHER DAMAGES BASED ON A WILLFUL OR GROSSLY NEGLIGENT BREACH OF DUTIES BY LICENSEE, ITS LEGAL REPRESENTATIVES OR AUXILIARY PERSONS. ESSENTIAL CONTRACTUAL OBLIGATIONS ARE THOSE THAT ARE NECESSARY FOR ACHIEVING THE OBJECTIVES OF THE CONTRACT.  IF LICENSEE BREACHES ESSENTIAL CONTRACTUAL OBLIGATIONS LICENSEE WILL ONLY BE LIABLE FOR THE TYPICAL AND PREDICTABLE DAMAGE IF THE DAMAGE WAS CAUSED BY SLIGHT NEGLIGENCE.  THIS DOES NOT APPLY TO DAMAGES THAT ARE BASED ON THE INJURY OF LIFE, BODY OR HEALTH.  THE AFOREMENTIONED RESTRICTIONS ALSO APPLY IN FAVOR OF THE LEGAL REPRESENTATIVES AND AUXILIARY PERSONS OF LICENSEE IF CLAIMS ARE DIRECTLY ASSERTED AGAINST THEM.  THE PROVISIONS OF THE GERMAN PRODUCT LIABILITY ACT REMAIN UNAFFECTED.
+
+**Governing Law.** This EULA shall be governed by and construed in accordance with the laws of the State of Arizona.
+
+**Entire Agreement.** This EULA sets forth and contains the entire agreement with regard to the matters set forth herein between the Licensee and you. There are no promises, terms, conditions, or obligations other than those contained herein. This EULA supersedes all previous communications, representations, or agreements, either verbal or written, between and among the parties with respect to the subject matter hereof.
+
+
+# Endbenutzer-Lizenzvertrag “EULA”
+
+####Aktualisiert am: 16.03.2016
+
+**ACHTUNG: DIE NUTZUNG DIESER SOFTWARE UNTERLIEGT DEM NACHSTEHENDEN ENDBENUTZER-LIZENZVERTRAG („END USER LICENSE AGREEMENT“ ODER „EULA“). DURCH DIE NUTZUNG DER SOFTWARE ERKLÄREN SIE SICH MIT DIESEN LIZENZBESTIMMUNGEN EINVERSTANDEN.**
+
+####EULA der Anwendung
+
+Die folgenden Lizenzbestimmungen regeln die Nutzung der beigefügten Anwendung (die „Anwendung“).
+
+**Lizenzgewährung.** Der Lizenzgeber gewährt Ihnen eine Lizenz zur Nutzung eines (1) Benutzerkontos innerhalb der Anwendung. „Lizenzgeber“ ist die Athletes‘ Performance, Inc. oder ein mit ihr verbundenes Unternehmen, dem die Anwendung gehört. „Nutzung“ bedeutet das Speichern, Laden, Installieren, Ausführen oder Anzeigen der Anwendung für Ihre persönlichen Zwecke. Sie dürfen die Anwendung weder modifizieren noch die Lizenzierungs- oder Kontrollfunktionen der Anwendung deaktivieren. Der Lizenzgeber behält sich alle Rechte vor, die Ihnen durch diese EULA nicht ausdrücklich eingeräumt werden.
+
+**Eigentum.** Eigentum und Urheberrecht an der Anwendung stehen dem Lizenzgeber zu. Ihre Lizenz stellt weder eine Übertragen von Rechten oder Eigentum noch eine Veräußerung von Rechten an der Anwendung dar. Sie dürfen die Anwendung nicht kopieren. Dem Lizenzgeber stehen sämtliche Rechte, Eigentums- und Nutzungsansprüche an allen abgeleiteten Werken, Verbesserungen oder Modifikationen der Anwendung zu.
+
+**Keine Disassemblierung oder Entschlüsselung.** Sie dürfen die Anwendung nicht modifizieren und sind nicht berechtigt, eine Dekompilierung, Disassemblierung oder Rückentwicklung der Anwendung zu veranlassen oder zu genehmigen oder anderweitig zu versuchen, den Quellcode der Software zu erlangen. Sie dürfen die Anwendung nicht entschlüsseln, es sei denn die Entschlüsselung stellt einen erforderlichen Teil des Betriebs der Software dar.
+
+**Kündigung.** Der Lizenzgeber kann Ihre Lizenz durch Mitteilung ordentlich oder wegen Nichteinhaltung dieser Lizenzbestimmungen außerordentlich kündigen. Ihre Lizenz erlischt automatisch bei jeglicher unerlaubter Nutzung sowie bei jeglichem unerlaubten Teilen Ihres Benutzerkontos innerhalb der Anwendung. Im Falle der Kündigung oder Erlöschen Ihrer Lizenz müssen Sie die Nutzung der Anwendung sofort einstellen.
+
+**Nutzungsbedingungen und Datenschutzbestimmungen.** Die Nutzungsbedingungen müssen akzeptiert werden, um diese Anwendung nutzen zu können. Bitte lesen Sie sich die Nutzungsbedingungen (die auch auf unsere Datenschutzbestimmungen Bezug nehmen) durch, bevor Sie diese Anwendung nutzen. Sollten Sie mit unseren Nutzungsbedingungen nicht mehr einverstanden sein, erlischt Ihre Lizenz zur Nutzung der Anwendung mit sofortiger Wirkung.
+
+**Exportauflagen & U.S. Government Restricted Rights.** Sie erklären sich damit einverstanden, alle maßgeblichen Ausfuhrgesetze und –vorschriften, einschließlich aber nicht beschränkt auf die U.S. Export Administration Regulations (zusammen die „Exportkontrollen“), vollständig einzuhalten. Ohne die Allgemeingültigkeit des Vorstehenden zu beschränken, stimmen Sie ausdrücklich zu, dass Sie die Anwendung oder ein direktes Produkt hiervon nicht direkt oder indirekt an einen durch die Exportkontrollen eingeschränkten oder verbotenen Bestimmungsort, Unternehmen oder Person ausführen, wiedereinführen, umleiten oder verbringen dürfen.
+
+**Garantieausschlüsse & Haftungsbeschränkung.** DIE ANWENDUNG WIRD “SO WIE SIE IST“ ZUR VERFÜGUNG GESTELLT UND DER LIZENZGEBER UND DIE MIT IHM VERBUNDENEN UNTERNEHMEN GEBEN KEINE AUSDRÜCKLICHEN ODER STILLSCHWEIGENDEN GARANTIEN, EINSCHLIEßLICH ABER NICHT BESCHRÄNKT AUF DIE IMPLIZIERTEN GARANTIEN DER NICHTVERLETZUNG VON RECHTEN, DER MARKTÜBLICHKEIT ODER DER TAUGLICHKEIT FÜR EINE BESTIMMTE BENUTZUNG ODER EINEN BESTIMMTEN ZWECK. DER LIZENZGEBER UND DIE MIT IHM VERBUNDENEN UNTERNEHMEN HAFTEN NICHT FÜR FOLGESCHÄDEN, ZUFÄLLIGE, MITTELBARE, SPEZIELLE ODER EXEMPLARISCHE SCHÄDEN ODER SCHÄDEN MIT STRAFCHARAKTER ODER FÜR ENTGANGENE GEWINNE, AUCH WENN SIE AUF DIE MÖGLICHKEIT SOLCHER SCHÄDEN HINGEWIESEN WURDEN. DIE VORSTEHENDEN HAFTUNGSBESCHRÄNKUNGEN UND SCHADENSERSATZBESCHRÄNKUNGEN GELTEN UNABHÄNGIG VON DER ART DES VERFAHRENS UND SOGAR DANN, WENN EIN RECHTSMITTEL SEINEN WESENTLICHEN ZWECK VERFEHLT.
+
+DIE VORSTEHENDEN BESCHRÄNKUNGEN GELTEN NICHT FÜR ANSPRÜCHE, DIE AUF DER VERLETZUNG VON LEIB, LEBEN ODER GESUNDHEIT BERUHEN, SOWIE ANSPRÜCHE, DIE AUFGRUND DER VERLETZUNG VON WESENTLICHEN VERTRAGLICHEN PFLICHTEN (KARDINALPFLICHTEN) ENTSTANDEN SIND SOWIE FÜR ANSPRÜCHE, DIE AUF VORSÄTZLICHER ODER GROB FAHRLÄSSIGER PFLICHTVERLETZUNG DES LIZENZGEBERS, SEINES RECHTLICHEN VERTRETERS ODER HILFSPERSONEN BERUHEN. WESENTLICHE VERTRAGSPFLICHTEN SIND SOLCHE PFLICHTEN, DIE NOTWENDIG FÜR DIE ERREICHUNG DES VERTRAGSZZWECKS SIND. FÜR DEN FALL, DASS DER LIZENZGEBER WESENTLICHE VERTRAGSPFLICHTEN VERLETZT, HAFTET DER LIZENZGEBER NUR FÜR DEN TYPISCHEN UND VORHERSEHBAREN SCHADEN, SOFERN DER SCHADEN LEICHT FAHRLÄSSIG VERURSACHT WURDE. DIES GILT NICHT FÜR DEN FALL, DASS DIESE SCHÄDEN AUF DIE VERLETZUNG VON LEBEN, KÖRPER ODER GESUNDHEIT BERUHEN. DIE VORGENANNTEN HAFTUNGSBESCHRÄNKUNGEN GELTEN AUCH ZUGUNSTEN DER RECHTLICHEN VERTRETER UND HILFSPERSONEN DES LIZENZGEBERS, SOFERN DIE ANSPRÜCHE DIREKT GEGEN DIESE GERICHTET WERDEN. DIE REGELUNGEN DES PRODUKTHAFTUNGSGESETZES BLEIBEN UNBERÜHRT.
+
+**Anwendbares Recht.** Die EULA unterliegen dem Recht des U.S.-Staates Arizona.
+
+**Vollständigkeit der Vereinbarung.** Die EULA regeln die gesamte Vereinbarung im Hinblick auf die hierin enthaltenen Angelegenheiten zwischen dem Lizenzgeber und Ihnen. Zwischen den Parteien bestehen keine Versprechen, Bestimmungen, Bedingungen oder Verpflichtungen außer jenen, die in diesem Vertrag enthalten sind. Die EULA ersetzen im Hinblick auf ihren Vertragsgegenstand alle bisherigen mündlichen oder schriftlichen Mitteilungen, Erklärungen oder Vereinbarungen zwischen den Parteien.
