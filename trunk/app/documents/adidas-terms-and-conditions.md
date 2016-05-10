@@ -14,7 +14,7 @@ bitte nach unten scrollen.
 
 Athletes’ Performance, Inc. (“API”) owns and maintains EXOS Journey (“EXOS Journey” or “Journey”). API authorizes its subsidiary Athletes’ Performance Germany GmbH (“APG”) to offer Journey to eligible individuals.
 
-Our Privacy Policy is located at http://legal.athletesperformance.com/privacy-policy/adidas/DE/ and will inform you of the personal information we collect and how we use that data.
+Our Privacy Policy is located at [http://legal.athletesperformance.com/eu/privacy/adidas-privacy-policy.html](http://legal.athletesperformance.com/eu/privacy/adidas-privacy-policy.html) and will inform you of the personal information we collect and how we use that data.
 
 **PLEASE READ THESE TERMS CAREFULLY AND COMPLETELY, AS THEY SET FORTH YOUR RIGHTS AND OBLIGATIONS WITH RESPECT TO YOUR USE OF JOURNEY.**
 
@@ -127,7 +127,7 @@ These Terms, and their subject matter and formation, are governed by the applica
 
 Athletes’ Performance, Inc. (“API”) ist Eigentümerin und Betreiberin von EXOS Journey („EXOS Journey“ oder „Journey“). API hat seine Tochtergesellschaft Athletes’ Performance Germany GmbH ermächtigt, Journey nutzungsberechtigten Personen anzubieten.
 
-Unsere Datenschutzbestimmungen finden Sie unter http://legal.athletesperformance.com/privacy-policy/adidas/DE/. Diese informieren Sie über die personenbezogenen Daten, die wir sammeln und darüber, wie diese Daten von uns genutzt werden.
+Unsere Datenschutzbestimmungen finden Sie unter [http://legal.athletesperformance.com/eu/privacy/adidas-privacy-policy.html](http://legal.athletesperformance.com/eu/privacy/adidas-privacy-policy.html). Diese informieren Sie über die personenbezogenen Daten, die wir sammeln und darüber, wie diese Daten von uns genutzt werden.
 
 **BITTE LESEN SIE DIE NACHFOLGENDEN NUTZUNGSBEDINGUNGEN AUFMERKSAM UND BIS ZUM ENDE, DA DIESE IHRE RECHTE UND PFLICHTEN HINSICHTLICH DER NUTZUNG VON JOURNEY DARLEGEN.**
 
