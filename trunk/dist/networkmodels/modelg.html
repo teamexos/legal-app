@@ -25,7 +25,7 @@
         
 <div class="row">
     <div class="large-12 columns">
-        <p>Last updated date: 3/29/2016</p>
+        <p>Last updated date: 5/20/2016</p>
 <p>In Model G, the network connectivity is supplied to EXOS|Medifit by the client.  In said scenario, the following gear is supported:</p>
 <ul>
 <li>Orbit</li>
@@ -50,10 +50,11 @@
 </ul>
 </li>
 <li>Inbound ports: none</li>
-<li>Outbound ports<ul>
+<li>Outbound ports. In general we recommend that all ports outbound be opened as our needs may change overtime.  As of this document, our current specific needs are:<ul>
 <li>80</li>
 <li>443</li>
 <li>5222 (from printer only)</li>
+<li>4172 (tcp and udp) for Amazon Workspaces</li>
 <li>NTP</li>
 <li>DNS (if internal DNS servers not provided)</li>
 <li>Device to device communication: NONE</li>

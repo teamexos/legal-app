@@ -1,4 +1,4 @@
-Last updated date: 3/29/2016
+Last updated date: 5/20/2016
 
 
 In Model G, the network connectivity is supplied to EXOS|Medifit by the client.  In said scenario, the following gear is supported:
@@ -20,10 +20,11 @@ Model G network requirements – to be provided by client:
     * minimum: 1/mbps symmetrical
     * recommended: 5/mbps symmetrical
   - Inbound ports: none
-  - Outbound ports
+  - Outbound ports. In general we recommend that all ports outbound be opened as our needs may change overtime.  As of this document, our current specific needs are:
     * 80
     * 443
     * 5222 (from printer only)
+    * 4172 (tcp and udp) for Amazon Workspaces
     * NTP
     * DNS (if internal DNS servers not provided)
     * Device to device communication: NONE
