@@ -1,4 +1,4 @@
-#Google Privacy Statement (United States):  9/29/14
+#Google Privacy Policy (United States):  9/29/14
 
 This privacy statement (the "Privacy Statement") describes the privacy practices for Core Performance Centers, LLC ("EXOS") in connection with the information EXOS collects from individuals through any Google corporate wellness facility/program, whether online, on paper or in person (each, a “Program”).  EXOS respects the privacy of those persons who access and/or use any Program ("you," "your," "user," or collectively "users") and is committed to protecting the privacy of the personally identifiable information we collect from you.  EXOS does not knowingly collect or solicit Information from children under the age of thirteen (13) and you must be 18 years of age or older to use a Program. The purpose of this Privacy Statement is to inform you about what information we collect from you, how we use that information, and whether we disclose that information to anyone. By your acknowledgment of this Privacy Statement, you expressly consent to the use and disclosure of information as described in this Privacy Statement.
 
