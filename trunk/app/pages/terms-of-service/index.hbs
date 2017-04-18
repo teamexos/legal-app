@@ -1,16 +1,8 @@
 ---
 title: Terms of Service
 ---
-<div id="TOS"></div>
-
-<script>
-    var request = new XMLHttpRequest();
-    request.onreadystatechange = function () {
-        if (request.readyState === XMLHttpRequest.DONE &&
-            request.status === 200) {
-            document.getElementById('TOS').innerHTML = request.response
-        }
-    };
-    request.open('GET', '/terms-of-service/US/', true);
-    request.send();
-</script>
+<div class="row">
+    <div class="large-12 columns">
+        {{ md "app/documents/terms-of-service-us.md" }}
+    </div>
+</div>
