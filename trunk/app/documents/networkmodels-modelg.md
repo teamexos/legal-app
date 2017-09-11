@@ -1,9 +1,9 @@
-Last updated date: 5/20/2016
+Last updated date: 9/11/2017
 
 
-In Model G, the network connectivity is supplied to EXOS|Medifit by the client.  In said scenario, the following gear is supported:
-+ Orbit
-+ Corner
+In Model G, the network connectivity is supplied to EXOS by the client.  In said scenario, the following gear is supported:
++ Circuit
++ Performance Kiosk
 + Check-in computer
 + Google cloud printer
 + Google Chrome Books (for coach usage)
