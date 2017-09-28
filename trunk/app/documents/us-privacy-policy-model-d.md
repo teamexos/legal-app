@@ -2,7 +2,7 @@
 
 Privacy Policy
 
-Updated: July 12, 2016
+Updated: 9/27/17
 
 Athletes' Performance, Inc., a Delaware corporation ("EXOS") and all of
 its current and future subsidiaries and affiliates (collectively, the
