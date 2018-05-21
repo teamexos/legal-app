@@ -1,6 +1,6 @@
 # <a name="english"></a>Privacy Policy for Athletes’ Performance Germany GmbH and Athletes’ Performance, Inc.
 
-#### Released: February 16, 2016
+#### Valid: February 16, 2016 though May 24, 2018
 
 ## Purpose
 

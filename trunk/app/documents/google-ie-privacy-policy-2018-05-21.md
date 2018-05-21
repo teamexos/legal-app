@@ -1,4 +1,4 @@
-##### **Privacy Policy**
+##### **Privacy Policy - Ireland - Last Effective Date 24 May 2018**
 
 Privacy Statement
 

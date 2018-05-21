@@ -1,4 +1,4 @@
-##### **Privacy Policy**
+##### **Privacy Policy - France - Last Effective Date 24 May 2018**
 
 Privacy Statement
 

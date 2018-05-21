@@ -1,4 +1,4 @@
-##### **Privacy Policy**
+##### **Privacy Policy - Germany - Last Effective Date 24 May 2018**
 
 This privacy statement (the "Privacy Statement") describes the privacy practices for CP International in connection with the information we collect from you through the Program, online, on paper and in person. CP International respects the privacy of those persons who access and/or use the Program ("you," "your," "user," or collectively "users") and is committed to protecting the privacy of the personally identifiable information we collect from you. You must be 18 years of age or older to use the Program. The purpose of this Privacy Statement is to inform you about what information we collect from you, how we use that information, whether we disclose that information to anyone, and the choices you have regarding our use of, and your ability to correct or update, the information. By your acknowledgment of this Privacy Statement, you expressly consent to the use and disclosure of information as described in this Privacy Statement.
 

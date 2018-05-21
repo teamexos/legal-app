@@ -1,4 +1,4 @@
-##### **Privacy Policy - SWITZERLAND**
+##### **Privacy Policy - Switzerland - Last Effective Date 24 May 2018**
 
 Privacy Policy for CP International LLC and Athlete’s Performance, Inc.
 

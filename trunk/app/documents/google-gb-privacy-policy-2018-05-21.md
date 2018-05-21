@@ -1,4 +1,4 @@
-##### **Privacy Policy – UNITED KINGDOM**
+##### **Privacy Policy - United Kingdom - Last Effective Date 24 May 2018**
 
 Privacy Policy for Athletes’ Performance UK LTD and Athletes’ Performance, Inc. and CP International LLC
 
