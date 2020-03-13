@@ -2,6 +2,6 @@
   "name": "webapp",
   "version": "0.0.0",
   "dependencies": {
-    "user-interface-library": "https://ap.git.beanstalkapp.com/user-interface-library.git#1.1.x"
+    "user-interface-library": "git@github.com:teamexos/user-interface-library.git#1.1.x"
   }
 }
